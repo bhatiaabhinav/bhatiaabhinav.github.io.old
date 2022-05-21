@@ -1,5 +1,5 @@
 ---
-title: "Tuning the hyperparameters of anytime planning: A metareasoning approach with deep reinforcement learning"
+title: "Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning"
 collection: publications
 permalink: publication/BSNZicaps22
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
