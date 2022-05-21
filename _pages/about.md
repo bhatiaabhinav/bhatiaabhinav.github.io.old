@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -48,3 +48,7 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+I am a second year MS/Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University (SMU), where I worked with [Pradeep Varankantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html).
+Before that, I worked as a software engineer at @WalmartLabs Banglore; and as an intern at Amazon Bangalore.
