@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhinav Bhatia / About"
+title                    : "Abhinav Bhatia"
 title_separator          : "-"
 name                     : &name "Abhinav Bhatia"
 description              : &description "PhD Student at UMass"
