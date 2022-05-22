@@ -13,5 +13,6 @@ citation: 'Bhatia, A., Svegliato, J., & Zilberstein, S. (2021, July). On the Ben
 
 <!-- Should be a pdf link: -->
 [Download paper here](https://bhatiaabhinav.github.io/files/BSZsocs21.pdf)  
+[Watch talk here](https://slideslive.com/38965417?slide=1)
 
-<iframe src="https://slideslive.com/embed/presentation/38965417"></iframe>
+<iframe src="https://slideslive.com/embed/presentation/38965417?slide=1" width="1034" height="582" allow="autoplay; fullscreen" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-top-navigation" frameborder="0" scrolling="no"></iframe>
