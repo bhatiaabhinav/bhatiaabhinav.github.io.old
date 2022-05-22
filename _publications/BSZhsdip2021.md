@@ -17,4 +17,6 @@ citation: 'Bhatia, A., Svegliato, J., & Zilberstein, S. (2021, May). Tuning the 
 
 <iframe width="1034" height="582" src="https://www.youtube.com/embed/6oiFsbbYOLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+\
 A follow-up paper at ICAPS 2022: [Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning](https://bhatiaabhinav.github.io/publication/BSNZicaps22)
