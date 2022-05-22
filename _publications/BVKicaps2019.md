@@ -13,3 +13,7 @@ citation: 'Bhatia, A., Varakantham, P., & Kumar, A. (2019). Resource constrained
 
 <!-- Should be a pdf link: -->
 [Download paper here](https://bhatiaabhinav.github.io/files/BVKicaps2019.pdf)  
+
+[Watch talk here](https://www.youtube.com/embed/qGLRxfKD40s?start=2529&end=3816)
+
+<iframe width="1034" height="582" src="https://www.youtube.com/embed/qGLRxfKD40s?start=2529&end=3816" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
