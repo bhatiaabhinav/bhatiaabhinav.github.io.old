@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 =========
-* B.E. (Hons.) in Computer Science, Birla Institute of Technology and Science (BITS), Pilani, India, 2015. GPA 9.27/10.
-* M.S. in Computer Science, University of Massachusetts, Amherst, USA, 2022. GPA 3.94/4.
-* Ph.D in Computer Science, University of Massachusetts, Amherst, USA, 2025 (expected).
+* B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
+* M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
+* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
   * Advisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
 Work experience
 ======
-* Fall 2019 - Present: Research Assistant at University of Massachusetts Amherst
+* Fall 2019 - Present: Research Assistant at [College of Information & Computer Sciences, University of Massachusetts Amherst](https://www.cics.umass.edu/)
   * [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/)
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
-* Jun 2017 - Jul 2019:  Research Engineer at Singapore Management University
+* Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems, Singapore Management University](https://scis.smu.edu.sg)
   * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
   * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
    
 
-* Aug 2015 - Jun 2017: Software Engineer at WalmartLabs, Bengaluru
+* Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
   * As part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce business, developed a deep-learning based system for 
 anomaly-detection in live incoming data streams.
 
