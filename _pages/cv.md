@@ -12,7 +12,7 @@ redirect_from:
 Education
 =========
 * B.E. (Hons.) in Computer Science, Birla Institute of Technology and Science (BITS), Pilani, India, 2015. GPA 9.27/10.
-* M.S. in Computer Science, University of Massachusetts, Amherst, USA, 2022. GPA 3.9/4.
+* M.S. in Computer Science, University of Massachusetts, Amherst, USA, 2022. GPA 3.94/4.
 * Ph.D in Computer Science, University of Massachusetts, Amherst, USA, 2025 (expected).
   * Advisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
