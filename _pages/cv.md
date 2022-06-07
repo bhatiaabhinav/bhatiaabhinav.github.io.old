@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Interests
+=========
+Artificial Intelligence, Reinforcement Learning, Sequential Decision Making
+
 Education
 =========
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
