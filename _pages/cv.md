@@ -24,9 +24,9 @@ Work experience
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
 * Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
-  * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
+  * Worked on [optimizing constrained resource allocation at city scale using deep reinforcement learning](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
   * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
-   
+
 
 * Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
   * As part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce business, developed a deep-learning based system for 
@@ -44,7 +44,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-* Programming Languages: Julia, Python, C++, Java, SQL.
+* Programming Languages: Julia, Python, C++, Java, C#, SQL.
 
 Publications
 ======
@@ -56,14 +56,14 @@ Publications
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+Service Summary
+==============
+* Reviewed a Journal paper for AIJ (2021)
