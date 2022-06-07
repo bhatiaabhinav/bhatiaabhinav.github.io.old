@@ -66,4 +66,4 @@ Publications
   
 Service Summary
 ==============
-* Reviewed a Journal paper for AIJ (2021)
+* Reviewed a journal paper for AIJ (2021)

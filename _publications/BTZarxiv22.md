@@ -1,12 +1,12 @@
 ---
-title: "Adaptive Rollout Length for Model-Based RL using Model-Free Deep RL"
+title: "Adaptive Rollout Length for Model-Based Using Model-Free Deep RL"
 collection: publications
 permalink: publication/BTZarxiv22
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-06-06
 venue: 'arXiv preprint arXiv:2206.02380'
 paperurl: 'https://arxiv.org/abs/2206.02380'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
-citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022, June). Adaptive Rollout Length for Model-Based RL using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
+citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022, June). Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
