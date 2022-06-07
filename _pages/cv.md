@@ -13,6 +13,7 @@ Education
 =========
 * Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
   * Advisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
+  * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Machine Learning, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
 * M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
 * B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
