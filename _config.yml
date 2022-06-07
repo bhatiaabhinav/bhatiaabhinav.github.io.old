@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abhinav Bhatia"
   avatar           : "profile.jpg"
-  bio              : "Teaching AI to learn like babies"
-  location         : "Amherst, United States"
+  bio              : "Ph.D. Student (3rd year)"
+  # location         : "Amherst, United States"
   employer         : "University of Massachusetts Amherst"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Y53CNrIAAAAJ&hl=en"
