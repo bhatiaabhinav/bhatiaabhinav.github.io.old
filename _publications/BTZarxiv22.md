@@ -17,4 +17,4 @@ Model-based reinforcement learning promises to learn an optimal policy from fewe
 As a result, with a longer rollout length, an overall worse policy is learned in the long run. Thus, the hyperparameter provides a trade-off between quality and efficiency. In this work, we frame the problem of tuning the rollout length as a meta-level sequential decision-making problem that optimizes the final policy learned by model-based reinforcement learning given a fixed budget of environment interactions by adapting the hyperparameter dynamically based on feedback from the learning process, such as accuracy of the model and the remaining budget of interactions. We use model-free deep reinforcement learning to solve the meta-level decision problem and demonstrate that our approach outperforms common heuristic baselines on two well-known reinforcement learning environments.
 
 <!-- Should be a pdf link: -->
-[Download paper here](https://bhatiaabhinav.github.io/files/BTZarxiv22.pdf)
+[PDF](https://bhatiaabhinav.github.io/files/BTZarxiv22.pdf)

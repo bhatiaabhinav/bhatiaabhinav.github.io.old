@@ -11,8 +11,13 @@ citation: 'Bhatia, A., Varakantham, P., & Kumar, A. (2019). Resource constrained
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
 
+### Abstract
+In urban environments, resources have to be constantly matched to the “right” locations where customer demand is present. For instance, ambulances have to be matched to base stations regularly so as to reduce response time for emergency incidents in ERS (Emergency Response Systems); vehicles (cars, bikes among others) have to be matched to docking stations to reduce lost demand in shared mobility systems. Such problems are challenging owing to the demand uncertainty, combinatorial action spaces and constraints on allocation of resources (e.g., total resources, minimum and maximum number of resources at locations and regions).
+
+Existing systems typically employ myopic and greedy optimization approaches to optimize resource allocation. Such approaches typically are unable to handle surges or variances in demand patterns well. Recent work has demonstrated the ability of Deep RL methods in adapting well to highly uncertain environments. However, existing Deep RL methods are unable to handle combinatorial action spaces and constraints on allocation of resources. To that end, we have developed three approaches on top of the well known actor-critic approach, DDPG (Deep Deterministic Policy Gradient) that are able to handle constraints on resource allocation. We also demonstrate that they are able to outperform leading approaches on simulators validated on semi-real and real data sets.
+
 <!-- Should be a pdf link: -->
-[Download paper here](https://bhatiaabhinav.github.io/files/BVKicaps2019.pdf)  
-[Watch talk here](https://www.youtube.com/embed/qGLRxfKD40s?start=2529&end=3816)
+[PDF](https://bhatiaabhinav.github.io/files/BVKicaps2019.pdf)
+[Talk](https://www.youtube.com/embed/qGLRxfKD40s?start=2529&end=3816)
 
 <iframe width="1034" height="582" src="https://www.youtube.com/embed/qGLRxfKD40s?start=2529&end=3816" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
