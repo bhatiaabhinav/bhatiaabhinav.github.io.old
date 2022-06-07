@@ -18,11 +18,11 @@ Education
 
 Work experience
 ======
-* Fall 2019 - Present: Research Assistant at [College of Information & Computer Sciences, University of Massachusetts Amherst](https://www.cics.umass.edu/)
+* Fall 2019 - Present: Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)
   * [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/)
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
-* Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems, Singapore Management University](https://scis.smu.edu.sg)
+* Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
   * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
   * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
    
