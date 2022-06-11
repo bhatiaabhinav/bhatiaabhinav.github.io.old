@@ -1,5 +1,5 @@
 ---
-title: 'My old website'
+title: 'My Old Website'
 date: 2015-01-01
 permalink: /posts/old-website/
 tags:
