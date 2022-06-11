@@ -2,7 +2,7 @@
 title: "Resource Constrained Deep Reinforcement Learning"
 collection: publications
 permalink: publication/BVKicaps2019
-excerpt: 'TLDR: Deep RL to optimizing constrained resource allocation at city scale. Good results on realistic datasets.'
+excerpt: 'TLDR: Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.'
 date: 2019-05-25
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 paperurl: 'https://ojs.aaai.org/index.php/ICAPS/article/view/3528'  # Not necessarily a PDF. Can be an arxiv link or aaai link.
