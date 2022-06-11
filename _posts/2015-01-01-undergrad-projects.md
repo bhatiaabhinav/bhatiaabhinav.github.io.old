@@ -23,18 +23,28 @@ These are some projects I did as an undergraduate student at BITS Pilani.
 
 Link to each blog post on the website:
 - [Chaser Bot Using Reinforcement Learning](https://abhinavcodes.wordpress.com/2014/08/02/chaser-bot-using-reinforcement-learning/) (2014). This was before I even knew anything like deep RL existed!
+
   <!-- ![chaserbot.png](https://bhatiaabhinav.github.io/images/chaserbot.png) -->
-  <img src="https://bhatiaabhinav.github.io/images/chaserbot.png" width="500"/>
+  <img src="https://bhatiaabhinav.github.io/images/chaserbot.png" width="600"/>
+
 - [Simulated Evolution of Preys & Predators using GAs & ANNs](https://abhinavcodes.wordpress.com/2014/07/29/simulated-evolution-of-preys-predators-using-gas-nns/) (2014). At the time, I had just learned a lot about evolution from Richard Dawkin's books.
+
   <!-- ![coevolution.png](https://bhatiaabhinav.github.io/images/coevolution.png) -->
-  <img src="https://bhatiaabhinav.github.io/images/coevolution.png" width="500"/>
+  <img src="https://bhatiaabhinav.github.io/images/coevolution.png" width="600"/>
+
 - [Compiler Construction Course Project](https://abhinavcodes.wordpress.com/2014/05/20/compiler-construction-project/) (2014).
+
 - [PlAI Game](https://abhinavcodes.wordpress.com/2014/04/01/plai-game/) (2014). As a member of IEEE BITS-Pilani chaper, I conceptualized, coordinated and developed this video game for an AI bot making competition at BITS tech fest.
+
   <!-- ![plai.png](https://bhatiaabhinav.github.io/images/plai.png) -->
-  <img src="https://bhatiaabhinav.github.io/images/plai.png" width="500"/>
+  <img src="https://bhatiaabhinav.github.io/images/plai.png" width="600"/>
+
 - [Scale-able P2P Media Sharing](https://abhinavcodes.wordpress.com/2013/12/20/scale-able-p2p-media-sharing/) (2013)
+
 - [Finger-tip Tracking Using Web Cam](https://abhinavcodes.wordpress.com/2013/03/02/finger-tip-tracking-using-web-cam/) (2013)
+
   <!-- ![fingertrack.png](https://bhatiaabhinav.github.io/images/fingertrack.png) -->
-  <img src="https://bhatiaabhinav.github.io/images/fingertrack.png" width="500"/>
+  <img src="https://bhatiaabhinav.github.io/images/fingertrack.png" width="600"/>
+
 - [TCP/IP Video Call Software](https://abhinavcodes.wordpress.com/2012/12/01/tcpip-video-call-software/) (2012). Skype was blocked on our campus. So I thought why not make my own?
 
