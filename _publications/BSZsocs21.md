@@ -11,7 +11,7 @@ tags:
   - random hyperparameter tuning
   - heuristic search
   - anytime A*
-  - real time planning
+  - real time search
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
