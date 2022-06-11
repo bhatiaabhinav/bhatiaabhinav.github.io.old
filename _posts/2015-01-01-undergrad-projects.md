@@ -19,9 +19,8 @@ These are some projects I did as an undergraduate student at BITS Pilani, before
 
 ### My Old Website
 
-[Here](https://abhinavcodes.wordpress.com/) is a website I maintained as an undergrad before 2015.
+[Here](https://abhinavcodes.wordpress.com/) is a website I maintained as an undergrad before 2015. Here's a summary of each blog post on the website:
 
-Link to each blog post on the website:
 - [Chaser Bot Using Reinforcement Learning](https://abhinavcodes.wordpress.com/2014/08/02/chaser-bot-using-reinforcement-learning/) (2014). This was before I even knew anything like deep RL existed!
 
   <!-- ![chaserbot.png](https://bhatiaabhinav.github.io/images/chaserbot.png) -->
