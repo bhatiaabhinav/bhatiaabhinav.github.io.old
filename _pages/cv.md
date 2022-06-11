@@ -11,32 +11,32 @@ redirect_from:
 
 Interests
 =========
-Artificial Intelligence, Reinforcement Learning, Sequential Decision Making
+Artificial Intelligence, Deep Reinforcement Learning, Sequential Decision Making
 
 Education
 =========
-* Ph.D in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
+* **Ph.D in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
   * Advisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
   * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Machine Learning, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
-* M.S. in Computer Science, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
-* B.E. (Hons.) in Computer Science, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
+* **M.S. in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
+* **B.E. (Hons.) in Computer Science**, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
 Work experience
 ======
-* Fall 2019 - Present: Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)
+* Fall 2019 - Present: **Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
   * [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/)
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
-* Jun 2017 - Jul 2019:  Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)
+* Jun 2017 - Jul 2019:  **Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)**
   * Worked on [optimizing constrained resource allocation at city scale using deep reinforcement learning](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
   * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
 
 
-* Aug 2015 - Jun 2017: Software Engineer at Walmart Labs, Bengaluru
+* Aug 2015 - Jun 2017: **Software Engineer at Walmart Labs**, Bengaluru
   * As part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce business, developed a deep-learning based system for 
 anomaly-detection in live incoming data streams.
 
-* Jan 2015 - Jun 2015: Software Development Engineer Intern at Amazon, Bengaluru
+* Jan 2015 - Jun 2015: **Software Development Engineer Intern at Amazon**, Bengaluru
   * Worked on offline experience for Prime Video
 
 Skills
@@ -48,7 +48,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-* Programming Languages: Julia, Python, C++, Java, C#, SQL.
+Experienced in Julia, Python, C++. Familiar with Java, C#, SQL.
+
+[Github profile](https://github.com/bhatiaabhinav)
 
 Publications
 ======
@@ -71,3 +73,8 @@ Publications
 Service Summary
 ==============
 * Reviewed a journal paper for AIJ (2021)
+
+Projects
+========
+
+[Projects as an undergrad](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
