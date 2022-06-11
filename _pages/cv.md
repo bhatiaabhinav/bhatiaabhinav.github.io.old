@@ -77,4 +77,4 @@ Service Summary
 Projects
 ========
 
-[Projects as an undergrad](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
+[Projects done as an undergrad](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
