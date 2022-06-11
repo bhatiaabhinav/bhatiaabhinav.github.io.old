@@ -8,7 +8,7 @@ tags:
   - undergrad
 ---
 
-These are some projects I did as an undergraduate student at BITS Pilani.
+These are some projects I did as an undergraduate student at BITS Pilani, before 2015.
 
 - **Monitoring factory workers' performance with Kinect (2014)**: Used deep learning to measure the quality of activity of factory workers. It performed well in varying lighting conditions, distances and orientations of workers w.r.t. the Kinect.
 - **Tracking finger-gestures using Kinect to control a PC (2014)**: Won 1st prize in BITS-Pilani technical festival 2014 in appliances category.
