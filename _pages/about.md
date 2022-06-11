@@ -51,12 +51,11 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 I am a third year Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University (SMU), where I worked with [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html).
-Before that, I worked as a software engineer at @WalmartLabs Bangaluru; and as an intern at Amazon Bangalore.
+Before that, I worked as a software engineer at @WalmartLabs Bangalore; and as an intern at Amazon Bangalore.
 
-I am interested in making fundamental contributions to AI research, especially to sequential decision making. The problem which keeps me up at night is how to scale Reinforcement Learning to make it work for autonomous agents in the real world.\
-At present, my research efforts lie at the intersection of model free RL, model based RL, planning, efficient exploration & learning, heuristic search, anytime algorithms and metareasoning.
+I am interesting in making fundamental contributions to Artificial Intelligence research, more specifically, towards building general-purpose autonomous agents that can operate in unstructured real-world environments. At present, my research efforts lie at an intersection of planning, model-based & model-free reinforcement learning and metareasoning.
 
-When I am not thinking about Bellman equations, I love consuming other science content such as documentaries on physics, evolutionary biology, neuroscience, psychology etc, in part looking for clues towards my research.
+In addition to thinking about Bellman equations, I love consuming sciency stuff such as documentaries/podcasts/books on physics, evolutionary biology, neuroscience, psychology etc., in part looking for clues towards my research.
 
 I'm a huge fan of Richard Feynman and Roger Federer.\
 My friends tell me I sing well.
