@@ -2,7 +2,7 @@
 title: "On the Benefits of Randomly Adjusting Anytime Weighted A*"
 collection: publications
 permalink: publication/BSZsocs21
-excerpt: 'TLDR: _Randomized Weighted A*_ chooses a weight simply at random in _Anytime Weighted A*_ before each node expansion and outperforms every static weight.'
+excerpt: 'TLDR: _Randomized Weighted A*_ tunes the weight in _Anytime Weighted A*_ randomly at runtime and outperforms every static weighted baseline.'
 date: 2021-07-21
 venue: 'Proceedings of the International Symposium on Combinatorial Search'
 paperurl: 'https://ojs.aaai.org/index.php/SOCS/article/view/18558'  # Not necessarily a PDF. Can be an arXiv link or AAAI link.
