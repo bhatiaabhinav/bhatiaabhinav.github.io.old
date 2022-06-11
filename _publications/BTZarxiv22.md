@@ -2,7 +2,7 @@
 title: "Adaptive Rollout Length for Model-Based Using Model-Free Deep RL"
 collection: publications
 permalink: publication/BTZarxiv22
-excerpt: 'TLDR: Meta-level deep RL to adapt rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.'
+excerpt: 'TLDR: Meta-level deep RL to adapt the rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.'
 date: 2022-06-06
 venue: 'arXiv preprint arXiv:2206.02380'
 paperurl: 'https://arxiv.org/abs/2206.02380'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
