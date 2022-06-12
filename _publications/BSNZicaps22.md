@@ -7,6 +7,14 @@ date: 2022-06-21
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 paperurl: 'https://abhinavbhatia.me/files/BSNZicaps22.pdf'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
 citation: 'Bhatia, A., Svegliato, J., Nashed, S, & Zilberstein, S. (2022, June). Tuning the hyperparameters of anytime planning: A metareasoning approach with deep reinforcement learning. In <i>Proceedings of the 32nd International Conference on Automated Planning and Scheduling</i>.' # TODO: Add page num
+tags:
+  - metareasoning
+  - hyperparameter tuning
+  - anytime algorithms
+  - real time planning
+  - planning and reinforcement learning
+  - anytime A*
+  - RRT*
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->

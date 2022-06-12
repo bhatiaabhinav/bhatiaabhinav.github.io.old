@@ -7,6 +7,14 @@ date: 2019-05-25
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 paperurl: 'https://ojs.aaai.org/index.php/ICAPS/article/view/3528'  # Not necessarily a PDF. Can be an arxiv link or aaai link.
 citation: 'Bhatia, A., Varakantham, P., & Kumar, A. (2019). Resource constrained deep reinforcement learning. In Proceedings of the International Conference on Automated Planning and Scheduling (Vol. 29, pp. 610-620).'
+tags:
+  - contrained optimization
+  - resource allocation
+  - deep reinforcement learning
+  - DDPG
+  - city planning
+  - emergency response systems
+  - bike sharing
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
