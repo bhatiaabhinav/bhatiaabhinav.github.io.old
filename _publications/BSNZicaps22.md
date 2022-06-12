@@ -2,7 +2,7 @@
 title: "Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning"
 collection: publications
 permalink: publication/BSNZicaps22
-excerpt: 'TLDR: Deep RL to control hyperparameters _and_ optimal stopping point of anytime algorithms at runtime to optimize utility of the final solution. Good results on _Anytime A*_ search algorithm and _RRT*_ motion planning algorithm.'
+excerpt: 'TLDR: Deep RL to determine optimal stopping point _and_ hyperparameters of anytime algorithms at runtime to optimize utility of the final solution. Good results on _Anytime A*_ search algorithm and _RRT*_ motion planning algorithm.'
 date: 2022-06-21
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 paperurl: 'https://abhinavbhatia.me/files/BSNZicaps22.pdf'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
