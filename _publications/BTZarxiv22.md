@@ -2,11 +2,11 @@
 title: "Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL"
 collection: publications
 permalink: publication/BTZarxiv22
-excerpt: 'TLDR: Meta-level deep RL to adapt the rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.'
+excerpt: 'TL;DR: Meta-level deep RL to adapt the rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.'
 date: 2022-06-06
 venue: 'arXiv preprint arXiv:2206.02380'
 paperurl: 'https://arxiv.org/abs/2206.02380'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
-citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022, June). Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
+citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022). Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
 tags:
   - model-based reinforcement learning
   - hyperparameter tuning
@@ -16,6 +16,7 @@ tags:
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
+TL;DR: Meta-level deep RL to adapt the rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.
 
 ### Abstract
 Model-based reinforcement learning promises to learn an optimal policy from fewer interactions with the environment compared to model-free reinforcement learning by learning an intermediate model of the environment in order to predict future interactions. When predicting a sequence of interactions, the _rollout length_, which limits the prediction horizon, is a critical hyperparameter as accuracy of the predictions diminishes in the regions that are further away from real experience.
