@@ -26,7 +26,7 @@ These are some projects I did before graduating from BITS-Pilani in 2015.
   <!-- ![chaserbot.png](https://bhatiaabhinav.github.io/images/chaserbot.png) -->
   <img src="https://bhatiaabhinav.github.io/images/chaserbot.png" width="600"/>
 
-- [Simulated Evolution of Preys & Predators using GAs & ANNs](https://abhinavcodes.wordpress.com/2014/07/29/simulated-evolution-of-preys-predators-using-gas-nns/) (2014). At the time, I had just learned a lot about evolution from Richard Dawkin's books.
+- [Simulated Evolution of Preys & Predators using GAs & ANNs](https://abhinavcodes.wordpress.com/2014/07/29/simulated-evolution-of-preys-predators-using-gas-nns/) (2014). At the time, I had just learned a lot about evolution from Richard Dawkins' books.
 
   <!-- ![coevolution.png](https://bhatiaabhinav.github.io/images/coevolution.png) -->
   <img src="https://bhatiaabhinav.github.io/images/coevolution.png" width="600"/>
