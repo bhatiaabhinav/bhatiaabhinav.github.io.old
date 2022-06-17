@@ -75,7 +75,8 @@ Publications
   
 Service Summary
 ==============
-* Reviewed a journal paper for AIJ (2021)
+* Reviewed a journal paper for AIJ, 2021.
+* As a member of IEEE BITS-Pilani chapter, organized an AI bot making competition for a video game I developed, 2014.
 
 Projects
 ========
