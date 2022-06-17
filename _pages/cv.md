@@ -48,9 +48,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-Experienced in Julia, Python, C++. Familiar with Java, C#, SQL.
+- Languages: Experienced in Julia, Python, C++. Familiar with Java, C#, SQL
+- Frameworks: OpenAI Gym, PyTorch, FluxML, TensorFlow, CPLEX, Elasticsearch, Unity3D
 
-[Github profile](https://github.com/bhatiaabhinav)
+See [Github profile](https://github.com/bhatiaabhinav).
 
 Publications
 ======
@@ -77,4 +78,4 @@ Service Summary
 Projects
 ========
 
-[Projects done as an undergrad](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
+[Undergrad Projects](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
