@@ -53,7 +53,7 @@ Skills
 - Languages: Experienced in Julia, Python, C++. Familiar with Java, C#, SQL
 - Frameworks: OpenAI Gym, PyTorch, FluxML, TensorFlow, CPLEX, Elasticsearch, Unity3D
 
-See [Github profile](https://github.com/bhatiaabhinav).
+See [Github profile](https://github.com/bhatiaabhinav)
 
 Publications
 ======
