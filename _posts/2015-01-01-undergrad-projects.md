@@ -33,7 +33,7 @@ These are some projects I did before graduating from BITS-Pilani in 2015.
 
 - [Compiler Construction Course Project](https://abhinavcodes.wordpress.com/2014/05/20/compiler-construction-project/) (2014).
 
-- [PlAI Game](https://abhinavcodes.wordpress.com/2014/04/01/plai-game/) (2014). As a member of IEEE BITS-Pilani chaper, I conceptualized, coordinated and developed this video game for an AI bot making competition at BITS tech fest.
+- [PlAI Game](https://abhinavcodes.wordpress.com/2014/04/01/plai-game/) (2014). As a member of IEEE BITS-Pilani chapter, I conceptualized, coordinated and developed this video game for an AI bot making competition at BITS tech fest.
 
   <!-- ![plai.png](https://bhatiaabhinav.github.io/images/plai.png) -->
   <img src="https://bhatiaabhinav.github.io/images/plai.png" width="600"/>
