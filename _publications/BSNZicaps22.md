@@ -29,3 +29,6 @@ Anytime planning algorithms often have hyperparameters that can be tuned at runt
 [PDF](https://bhatiaabhinav.github.io/files/BSNZicaps22.pdf)
 [poster](https://bhatiaabhinav.github.io/files/BSNZicaps22_poster.pdf)
 [code](https://github.com/bhatiaabhinav/Metareasoning.jl)
+[Talk](https://www.youtube.com/watch?v=sQE5AUTDJ38)
+
+<iframe width="1110" height="624" src="https://www.youtube.com/embed/sQE5AUTDJ38" title="Tuning Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep RL - ICAPS 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
