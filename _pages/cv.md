@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220617.pdf)
+Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220708.pdf)
 
 Interests
 =========
