@@ -9,12 +9,9 @@ venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 citation: 'Nashed, S.B., Svegliato, J., Bhatia, A., Zilberstein, S., Russell S. (2022). Selecting the partial state abstractions of MDPs: A metareasoning approach with deep reinforcement learning. In <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems</i>.'
 tags:
   - metareasoning
-  - hyperparameter tuning
-  - anytime algorithms
   - real time planning
-  - planning and reinforcement learning
-  - anytime A*
-  - RRT*
+  - deep reinforcement learning
+  - state abstractions
 ---
 
 <!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
