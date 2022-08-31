@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+<font size="1">Updated: Aug 17, 2022</font>
+
+
 Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220817.pdf)
+
+
 
 Interests
 =========
