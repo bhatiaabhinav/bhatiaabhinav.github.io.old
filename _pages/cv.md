@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220708.pdf)
+
+
+<font size="1">Updated: Aug 17, 2022</font>
+
+
+Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220817.pdf)
+
+
 
 Interests
 =========
@@ -75,7 +82,8 @@ Publications
   
 Service Summary
 ==============
-* Reviewed a journal paper for AIJ, 2021.
+* Program Committee member, AAAI 2023.
+* Journal paper reviewer, AIJ 2021.
 * As a member of IEEE BITS-Pilani chapter, organized an AI bot making competition for a video game I developed, 2014.
 
 Projects
