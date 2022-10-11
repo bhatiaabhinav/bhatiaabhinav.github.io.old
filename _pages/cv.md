@@ -11,10 +11,10 @@ redirect_from:
 
 
 
-<font size="1">Updated: Aug 17, 2022</font>
+<font size="1">Updated: Oct 11, 2022</font>
 
 
-Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20220817.pdf)
+Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20221011.pdf)
 
 
 
@@ -32,7 +32,9 @@ Education
 
 Work experience
 ======
-* Fall 2019 - Present: **Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
+* Fall 2022 - Present: **Teaching Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
+
+* Fall 2019 - Summer 2022: **Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
   * [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/)
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
@@ -50,12 +52,6 @@ anomaly-detection in live incoming data streams.
 
 Skills
 ======
-<!-- * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 - Languages: Experienced in Julia, Python, C++. Familiar with Java, C#, SQL
 - Frameworks: OpenAI Gym, PyTorch, FluxML, TensorFlow, CPLEX, Elasticsearch, Unity3D
@@ -67,18 +63,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+  Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 Service Summary
 ==============
