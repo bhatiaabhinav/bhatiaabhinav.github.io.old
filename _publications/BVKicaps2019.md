@@ -5,7 +5,7 @@ collection: publications
 permalink: publication/BVKicaps2019
 excerpt: 'TL;DR: Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.'
 date: 2019-05-25
-venue: 'Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)'
+venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 venueshort: "ICAPS"
 paperurl: 'https://ojs.aaai.org/index.php/ICAPS/article/view/3528'  # Not necessarily a PDF. Can be an arxiv link or aaai link.
 citation: 'Bhatia, A., Varakantham, P., & Kumar, A. (2019). Resource Constrained Deep Reinforcement Learning. In <i>Proceedings of the International Conference on Automated Planning and Scheduling, 29</i>(1), 610-620.'

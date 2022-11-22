@@ -5,7 +5,7 @@ collection: publications
 permalink: publication/BSZsocs21
 excerpt: 'TL;DR: _Randomized Weighted A*_ tunes the weight in _Anytime Weighted A*_ randomly at runtime and outperforms every static weighted baseline.'
 date: 2021-07-21
-venue: 'Proceedings of the International Symposium on Combinatorial Search (SoCS)'
+venue: 'Proceedings of the International Symposium on Combinatorial Search'
 venueshort: "SoCS"
 paperurl: 'https://ojs.aaai.org/index.php/SOCS/article/view/18558'  # Not necessarily a PDF. Can be an arXiv link or AAAI link.
 citation: 'Bhatia, A., Svegliato, J., & Zilberstein, S. (2021). On the Benefits of Randomly Adjusting Anytime Weighted A. In <i>Proceedings of the International Symposium on Combinatorial Search</i> (Vol. 12, No. 1, pp. 116-120).'
