@@ -5,7 +5,7 @@ collection: publications
 permalink: publication/BSZhsdip2021
 excerpt: 'TL;DR: Deep RL to control hyperparameters of anytime algorithms at runtime to optimize quality of the final solution. Good results on _Anytime A*_ search algorithm.'
 date: 2021-05-18
-venue: 'ICAPS 2021 Workshop on Heuristics and Search for Domain-independent Planning'
+venue: 'ICAPS Workshop on Heuristics and Search for Domain-independent Planning'
 paperurl: 'https://openreview.net/forum?id=c7hpFp_eRCo'  # Not necessarily a PDF. Can be an arxiv link or aaai link.
 citation: 'Bhatia, A., Svegliato, J., & Zilberstein, S. (2021). Tuning the Hyperparameters of Anytime Planning: A Deep Reinforcement Learning Approach. In <i>ICAPS 2021 Workshop on Heuristics and Search for Domain-independent Planning.</i>'
 tags:
