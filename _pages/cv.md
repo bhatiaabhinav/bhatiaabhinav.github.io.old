@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<font size="1">Updated: Oct 11, 2022</font>
+<font size="1">Updated: Nov 22, 2022</font>
 
 
 Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20221011.pdf)
