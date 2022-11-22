@@ -36,6 +36,9 @@
       {% if post.venueshort %}
         <font size="1">{{ post.venueshort }}</font>
       {% endif %}
+      {% if post.date %}
+        <font size="1">{{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+      {% endif %}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
