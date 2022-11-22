@@ -8,6 +8,7 @@ date: 2022-06-06
 venue: 'arXiv preprint arXiv:2206.02380'
 venueshort: "ArXiv"
 paperurl: 'https://arxiv.org/abs/2206.02380'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
+pdf: "https://bhatiaabhinav.github.io/files/BTZarxiv22.pdf"
 citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022). Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
 tags:
   - model-based reinforcement learning

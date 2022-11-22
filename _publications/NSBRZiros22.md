@@ -8,6 +8,7 @@ date: 2022-10-23
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
 venueshort: "IROS"
 # paperurl: 'https://ojs.aaai.org/index.php/ICAPS/article/view/19842'
+pdf: "https://bhatiaabhinav.github.io/files/NSBRZiros22.pdf"
 citation: 'Nashed, S.B., Svegliato, J., Bhatia, A., Russell S., Zilberstein, S. (2022). Selecting the partial state abstractions of MDPs: A metareasoning approach with deep reinforcement learning. In <i>Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems</i>.'
 tags:
   - metareasoning

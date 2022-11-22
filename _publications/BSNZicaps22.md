@@ -7,6 +7,7 @@ excerpt: 'TL;DR: Deep RL to determine optimal stopping point _and_ hyperparamete
 date: 2022-06-13
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 venueshort: "ICAPS"
+pdf: "https://bhatiaabhinav.github.io/files/BSNZicaps22.pdf"
 paperurl: 'https://ojs.aaai.org/index.php/ICAPS/article/view/19842'
 citation: 'Bhatia, A., Svegliato, J., Nashed, S. B., & Zilberstein, S. (2022). Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning. In <i>Proceedings of the International Conference on Automated Planning and Scheduling, 32</i>(1), 556-564.'
 tags:
@@ -29,8 +30,8 @@ Anytime planning algorithms often have hyperparameters that can be tuned at runt
 
 <!-- Should be a pdf link: -->
 [PDF](https://bhatiaabhinav.github.io/files/BSNZicaps22.pdf)
-[poster](https://bhatiaabhinav.github.io/files/BSNZicaps22_poster.pdf)
-[code](https://github.com/bhatiaabhinav/Metareasoning.jl)
+[Poster](https://bhatiaabhinav.github.io/files/BSNZicaps22_poster.pdf)
+[Code](https://github.com/bhatiaabhinav/Metareasoning.jl)
 [Talk](https://www.youtube.com/watch?v=sQE5AUTDJ38)
 
 <iframe width="1110" height="624" src="https://www.youtube.com/embed/sQE5AUTDJ38" title="Tuning Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep RL - ICAPS 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
