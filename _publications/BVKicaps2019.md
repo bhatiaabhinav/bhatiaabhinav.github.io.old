@@ -1,5 +1,6 @@
 ---
 title: "Resource Constrained Deep Reinforcement Learning"
+authors: "Bhatia, A., Varakantham, P., & Kumar, A."
 collection: publications
 permalink: publication/BVKicaps2019
 excerpt: 'TL;DR: Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.'

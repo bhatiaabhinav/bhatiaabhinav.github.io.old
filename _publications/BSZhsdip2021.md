@@ -1,5 +1,6 @@
 ---
 title: "Tuning the Hyperparameters of Anytime Planning: A Deep Reinforcement Learning Approach"
+authors: "Bhatia, A., Svegliato, J., & Zilberstein, S."
 collection: publications
 permalink: publication/BSZhsdip2021
 excerpt: 'TL;DR: Deep RL to control hyperparameters of anytime algorithms at runtime to optimize quality of the final solution. Good results on _Anytime A*_ search algorithm.'

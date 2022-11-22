@@ -1,5 +1,6 @@
 ---
 title: "Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning"
+authors: "Nashed, S.B., Svegliato, J., Bhatia, A., Russell S., Zilberstein, S."
 collection: publications
 permalink: publication/NSBRZiros22
 # excerpt: 'TL;DR: Deep RL to adjust granularity of planning states'
