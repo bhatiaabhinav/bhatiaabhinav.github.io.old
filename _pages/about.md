@@ -55,7 +55,7 @@ Before that, I worked as a software engineer at @WalmartLabs Bangalore; and as a
 
 I am interested in making fundamental contributions to AI research, more specifically, towards building general-purpose autonomous agents that can operate in unstructured environments with limited resources. At present, my research efforts lie at the intersection of deep reinforcement learning, planning, meta-learning and meta-reasoning, with a focus on improving efficiency and achieving bounded rationality.
 
-In addition to thinking about Bellman equations, I love consuming sciency stuff such as documentaries/podcasts/books on physics, evolutionary biology, neuroscience, psychology etc., in part looking for clues towards my research.
+In addition to about Bellman equations, I love sciency stuff such as books, documentaries and podcasts on physics, evolutionary biology, neuroscience, psychology etc., in part looking for clues towards my own research. Conversely, I am always on a lookout for opportunities to apply AI for furthering science, as that is one of my true motivations entering AI research.
 
 I'm a huge fan of Richard Feynman and Roger Federer.\
 My friends tell me I sing well.
