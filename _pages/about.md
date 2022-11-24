@@ -57,5 +57,5 @@ I am interested in making fundamental contributions to AI research, more specifi
 
 In addition to thinking about Bellman equations, I love consuming sciency stuff such as books, documentaries and podcasts on physics, evolutionary biology, neuroscience, psychology etc., in part looking for clues towards my own research. Conversely, I am always on a lookout for opportunities to use AI to further scientific research.
 
-I'm a huge fan of Richard Feynman and Roger Federer.\
+I'm a huge fan of Richard Feynman, Roger Federer and Microsoft Flight Simulator.\
 My friends tell me that I sing well.
