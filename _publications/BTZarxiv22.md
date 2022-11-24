@@ -18,8 +18,6 @@ tags:
   - planning and reinforcement learning
 ---
 
-<!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
-TL;DR: Meta-level deep RL to adapt the rollout-length in model-based RL non-myopically based on feedback from the learning process, such as accuracy of the model, learning progress and scarcity of samples.
 
 ### Abstract
 Model-based reinforcement learning promises to learn an optimal policy from fewer interactions with the environment compared to model-free reinforcement learning by learning an intermediate model of the environment in order to predict future interactions. When predicting a sequence of interactions, the _rollout length_, which limits the prediction horizon, is a critical hyperparameter as accuracy of the predictions diminishes in the regions that are further away from real experience.

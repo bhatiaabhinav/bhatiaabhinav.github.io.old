@@ -20,9 +20,6 @@ tags:
   - bike sharing
 ---
 
-<!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
-
-TL;DR: Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.
 
 ### Abstract
 In urban environments, resources have to be constantly matched to the “right” locations where customer demand is present. For instance, ambulances have to be matched to base stations regularly so as to reduce response time for emergency incidents in ERS (Emergency Response Systems); vehicles (cars, bikes among others) have to be matched to docking stations to reduce lost demand in shared mobility systems. Such problems are challenging owing to the demand uncertainty, combinatorial action spaces and constraints on allocation of resources (e.g., total resources, minimum and maximum number of resources at locations and regions).

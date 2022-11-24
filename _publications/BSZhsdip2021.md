@@ -19,9 +19,6 @@ tags:
   - anytime A*
 ---
 
-<!-- Everything written here will come on the paper's own webpage. All the above data except the excerpt will also appear automatically. -->
-
-TL;DR: Deep RL to control hyperparameters of anytime algorithms at runtime to optimize quality of the final solution. Good results on _Anytime A*_ search algorithm.
 
 ### Abstract
 Many anytime algorithms have adjustable hyperparameters that affect their speed and accuracy. However, while existing work on metareasoning has focused on deciding when to interrupt an anytime algorithm and act on the current solution, there has not been much work on tuning the hyperparameters of an anytime algorithm at runtime. This paper introduces a decision-theoretic metareasoning approach that can optimize both the hyperparameters and the stopping point of adjustable algorithms with deep reinforcement learning. First, we propose a generalization of an anytime algorithm called an adjustable algorithm that has hyperparameters that can be tuned at runtime. Next, we offer a meta-level control technique that monitors and controls an adjustable algorithm by using deep reinforcement learning. Finally, we demonstrate that an application of our approach to anytime weighted A* is effective on a range of common benchmark problems.
