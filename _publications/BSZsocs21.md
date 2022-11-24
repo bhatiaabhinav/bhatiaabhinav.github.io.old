@@ -3,7 +3,7 @@ title: "On the Benefits of Randomly Adjusting Anytime Weighted A*"
 authors: "Bhatia, A., Svegliato, J., & Zilberstein, S."
 collection: publications
 permalink: publication/BSZsocs21
-tldr: 'TL;DR: _Randomized Weighted A*_ tunes the weight in _Anytime Weighted A*_ randomly at runtime and outperforms every static weighted baseline.'
+tldr: '_Randomized Weighted A*_ tunes the weight in _Anytime Weighted A*_ randomly at runtime and outperforms every static weighted baseline.'
 date: 2021-07-21
 venue: 'Proceedings of the International Symposium on Combinatorial Search'
 venueshort: "SoCS"

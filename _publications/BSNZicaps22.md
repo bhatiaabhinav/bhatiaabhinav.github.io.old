@@ -3,7 +3,7 @@ title: "Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach
 authors: "Bhatia, A., Svegliato, J., Nashed, S. B., & Zilberstein, S."
 collection: publications
 permalink: publication/BSNZicaps22
-tldr: '<font size=3>TL;DR:</font> Deep RL to determine optimal stopping point _and_ hyperparameters of anytime algorithms at runtime to optimize _utility_ of the final solution. Good results on _Anytime A*_ search algorithm and _RRT*_ motion planning algorithm.'
+tldr: 'Deep RL to determine optimal stopping point _and_ hyperparameters of anytime algorithms at runtime to optimize _utility_ of the final solution. Good results on _Anytime A*_ search algorithm and _RRT*_ motion planning algorithm.'
 date: 2022-06-13
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 venueshort: "ICAPS"

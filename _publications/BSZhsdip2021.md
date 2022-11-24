@@ -3,7 +3,7 @@ title: "Tuning the Hyperparameters of Anytime Planning: A Deep Reinforcement Lea
 authors: "Bhatia, A., Svegliato, J., & Zilberstein, S."
 collection: publications
 permalink: publication/BSZhsdip2021
-tldr: 'TL;DR: Deep RL to control hyperparameters of anytime algorithms at runtime to optimize quality of the final solution. Good results on _Anytime A*_ search algorithm.'
+tldr: 'Deep RL to control hyperparameters of anytime algorithms at runtime to optimize quality of the final solution. Good results on _Anytime A*_ search algorithm.'
 date: 2021-05-18
 venue: 'ICAPS Workshop on Heuristics and Search for Domain-independent Planning'
 venueshort: "HSDIP"

@@ -3,7 +3,7 @@ title: "Resource Constrained Deep Reinforcement Learning"
 authors: "Bhatia, A., Varakantham, P., & Kumar, A."
 collection: publications
 permalink: publication/BVKicaps2019
-tldr: 'TL;DR: Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.'
+tldr: 'Deep RL to optimize constrained resource allocation at city scale. Good results on realistic datasets.'
 date: 2019-05-25
 venue: 'Proceedings of the International Conference on Automated Planning and Scheduling'
 venueshort: "ICAPS"
