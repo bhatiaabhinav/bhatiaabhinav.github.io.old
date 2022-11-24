@@ -50,7 +50,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I am a Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University (SMU), where I worked with [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html).
+I am a Ph.D. student at [College of Information and Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts, Amherst](https://www.umass.edu), advised by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I received a B.E. (Hons.) in Computer Science from [BITS-Pilani, India](https://bits-pilani.ac.in/) in 2015. Previously, I was a Research Engineer at Singapore Management University (SMU), where I worked with [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html).
 Before that, I worked as a software engineer at @WalmartLabs Bangalore; and as an intern at Amazon Bangalore.
 
 I am interested in making fundamental contributions to AI research, more specifically, towards building general-purpose autonomous agents that can operate in unstructured environments with limited resources. At present, my research efforts lie at the intersection of deep reinforcement learning, planning, meta-learning and meta-reasoning, with a focus on improving efficiency and achieving bounded rationality.
@@ -59,3 +59,7 @@ In addition to thinking about Bellman equations, I love consuming sciency stuff 
 
 I'm a huge fan of Richard Feynman, Roger Federer and Microsoft Flight Simulator.\
 My friends tell me that I sing well.
+
+<!-- 
+Email: [abhinav.bhatia.me@gmail.com](mailto:abhinav.bhatia.me@gmail.com), [abhinavbhati@umass.edu](mailto:abhinav.bhatia.me@gmail.com) \
+Webpage: [https://abhinavbhatia.me](https://abhinavbhatia.me) -->
