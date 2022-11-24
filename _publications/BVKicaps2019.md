@@ -18,6 +18,7 @@ tags:
   - city planning
   - emergency response systems
   - bike sharing
+excerpt: "" # If you remove this field entirely, the first para of the content will appear as the excerpt
 ---
 
 
