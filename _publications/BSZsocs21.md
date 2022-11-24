@@ -15,6 +15,7 @@ tags:
   - heuristic search
   - anytime A*
   - real time search
+excerpt: ""
 ---
 
 
