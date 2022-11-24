@@ -8,7 +8,7 @@ date: 2022-06-06
 venue: 'arXiv preprint arXiv:2206.02380'
 venueshort: "ArXiv"
 paperurl: 'https://arxiv.org/abs/2206.02380'  # Not necessarily a PDF. Can be an arxiv link or aaai link. TODO: Add official link
-pdf: "https://bhatiaabhinav.github.io/files/BTZarxiv22.pdf"
+pdf: "../files/BTZarxiv22.pdf"
 citation: 'Bhatia, A., Thomas, PS., & Zilberstein, S. (2022). Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL. In <i>arXiv preprint arXiv:2206.02380</i>.'
 tags:
   - model-based reinforcement learning
@@ -25,4 +25,4 @@ Model-based reinforcement learning promises to learn an optimal policy from fewe
 In this work, we frame the problem of tuning the rollout length as a meta-level sequential decision-making problem that optimizes the final policy learned by model-based reinforcement learning given a fixed budget of environment interactions by adapting the hyperparameter dynamically based on feedback from the learning process, such as accuracy of the model and the remaining budget of interactions. We use model-free deep reinforcement learning to solve the meta-level decision problem and demonstrate that our approach outperforms common heuristic baselines on two well-known reinforcement learning environments.
 
 <!-- Should be a pdf link: -->
-[PDF](https://bhatiaabhinav.github.io/files/BTZarxiv22.pdf)
+[PDF](../files/BTZarxiv22.pdf)

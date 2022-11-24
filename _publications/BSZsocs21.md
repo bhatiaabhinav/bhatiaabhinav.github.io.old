@@ -8,7 +8,7 @@ date: 2021-07-21
 venue: 'Proceedings of the International Symposium on Combinatorial Search'
 venueshort: "SoCS"
 paperurl: 'https://ojs.aaai.org/index.php/SOCS/article/view/18558'  # Not necessarily a PDF. Can be an arXiv link or AAAI link.
-pdf: "https://bhatiaabhinav.github.io/files/BSZsocs21.pdf"
+pdf: "../files/BSZsocs21.pdf"
 citation: 'Bhatia, A., Svegliato, J., & Zilberstein, S. (2021). On the Benefits of Randomly Adjusting Anytime Weighted A. In <i>Proceedings of the International Symposium on Combinatorial Search</i> (Vol. 12, No. 1, pp. 116-120).'
 tags:
   - random hyperparameter tuning
@@ -24,8 +24,8 @@ _Anytime Weighted A\*_---an anytime heuristic search algorithm that uses a weigh
 
 
 <!-- Should be a pdf link: -->
-[PDF](https://bhatiaabhinav.github.io/files/BSZsocs21.pdf)
-[Poster](https://bhatiaabhinav.github.io/files/BSZsocs21_poster.pdf)
+[PDF](../files/BSZsocs21.pdf)
+[Poster](../files/BSZsocs21_poster.pdf)
 [Code](https://github.com/bhatiaabhinav/AnytimeWeightedAStar.jl)
 [Talk](https://slideslive.com/38965417?slide=1)
 

@@ -14,7 +14,7 @@ redirect_from:
 <font size="2">Updated: Nov 22, 2022</font>
 
 
-Download [PDF](https://bhatiaabhinav.github.io/files/abhinavbhatia_resume_20221122.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20221122.pdf)
 
 
 
@@ -39,7 +39,7 @@ Work experience
   * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
 
 * Jun 2017 - Jul 2019:  **Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)**
-  * Worked on [optimizing constrained resource allocation at city scale using deep reinforcement learning](https://bhatiaabhinav.github.io/publication/BVKicaps2019).
+  * Worked on [optimizing constrained resource allocation at city scale using deep reinforcement learning](../publication/BVKicaps2019).
   * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
 
 
@@ -86,4 +86,4 @@ Service Summary
 Projects
 ========
 
-[Undergrad Projects](https://bhatiaabhinav.github.io/posts/undergrad-projects/)
+[Undergrad Projects](../posts/undergrad-projects/)
