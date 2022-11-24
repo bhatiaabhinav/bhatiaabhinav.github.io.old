@@ -74,7 +74,7 @@
       </font>
     
     {% if post.tldr %}
-      <p><font size=3>TL;DR:</font> {{ post.tldr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      <p><font size=3><b>TL;DR:</b></font> {{ post.tldr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
