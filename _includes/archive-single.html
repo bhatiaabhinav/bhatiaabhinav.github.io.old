@@ -73,8 +73,8 @@
         {% endif %}
       </font>
     
-    {% if page.tldr %}
-      <p><font size=3>TL;DR:</font> {{ page.tldr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% if post.tldr %}
+      <p><font size=3>TL;DR:</font> {{ post.tldr | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
