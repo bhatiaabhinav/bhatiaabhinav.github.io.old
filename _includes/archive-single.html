@@ -32,12 +32,30 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      {% if post.venueshort %}
+
+      <font size="2">
+        {% if post.collection == "teaching" %}
+          {% if post.semester %}
+            {{ post.semester }}
+          {% endif %}
+        {% else %}
+          {% if post.venueshort %}
+            {{ post.venueshort }}
+          {% endif %}
+          {% if post.date %}
+            {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {% endif %}
+        {% endif %}
+      </font>
+
+      <!-- {% if post.venueshort %}
         <font size="2">{{ post.venueshort }}</font>
       {% endif %}
       {% if post.date %}
         <font size="2">{{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-      {% endif %}
+      {% endif %} -->
+
+
     </h2>
     
     
@@ -57,7 +75,7 @@
 
       <font size="3">
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'publications' %}
           <p> {{post.authors}} ({{ post.date | default: "1900-01-01" | date: "%Y" }}). In <i>{{ post.venue }}</i>. <font size="2">
             {% if post.paperurl %}

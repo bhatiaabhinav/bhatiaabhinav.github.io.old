@@ -10,51 +10,55 @@ redirect_from:
 {% include base_path %}
 
 
+<font size="2">Updated: March 17, 2023</font>
 
-<font size="2">Updated: Nov 22, 2022</font>
+Download [PDF](../files/abhinavbhatia_resume_20230317.pdf)
 
 
-Download [PDF](../files/abhinavbhatia_resume_20221122.pdf)
+-----
 
+**Currently seeking research internships**
+
+-----
 
 
 Interests
 =========
-Artificial Intelligence, Deep Reinforcement Learning, Sequential Decision Making
+Artificial Intelligence, Reinforcement Learning, Real-time Planning, Robotics
 
 Education
 =========
 * **Ph.D in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
-  * Advisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
-  * Coursework: Artificial Intelligence, Reinforcement Learning, Neural Networks, Robotics, Machine Learning, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
+  * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
+  * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
 * **M.S. in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
 * **B.E. (Hons.) in Computer Science**, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
 Work experience
 ======
-* Fall 2022 - Present: **Teaching Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
 
-* Fall 2019 - Summer 2022: **Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
-  * [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/)
-  * Supervisor: [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
+* Fall 2019 - Present: **Research Assistant at [College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu)**
+  * At [Resource Bounded Reasoning Lab](https://groups.cs.umass.edu/shlomo/) directed by Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
+  * Conduct research on meta-reasoning and meta-reinforcement-learning methods, aimed at making autonomous agents operate efficiently in real-time and with limited data.
 
 * Jun 2017 - Jul 2019:  **Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)**
-  * Worked on [optimizing constrained resource allocation at city scale using deep reinforcement learning](../publication/BVKicaps2019).
-  * Supervisors: [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
-
+  * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
+  * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](../publication/BVKicaps2019).
 
 * Aug 2015 - Jun 2017: **Software Engineer at Walmart Labs**, Bengaluru
-  * As part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce business, developed a deep-learning based system for 
-anomaly-detection in live incoming data streams.
+  * Was part of _Operations, Analytics & Research_ team for supply-chain division of Walmart’s eCommerce.
+  * Developed an Elasticsearch based distributed database for data analysis.
+  * Developed a deep-learning based system for anomaly-detection in large live incoming data streams.
 
 * Jan 2015 - Jun 2015: **Software Development Engineer Intern at Amazon**, Bengaluru
   * Worked on offline experience for Prime Video
+  * Worked on optimizing content load time for Prime Video on Kindle tablets.
 
-Skills
-======
+Programming Skills
+==================
 
-- Languages: Experienced in Julia, Python, C++. Familiar with Java, C#, SQL
-- Frameworks: OpenAI Gym, PyTorch, FluxML, TensorFlow, CPLEX, Elasticsearch, Unity3D
+- Languages: Experienced in Python, Julia, C/C++, Java. Familiar with C#, SQL.
+- Frameworks: OpenAI Gym, PyTorch, FluxML, Tensorflow, CPLEX, Elasticsearch, Unity3D
 
 See [Github profile](https://github.com/bhatiaabhinav)
 
@@ -80,8 +84,9 @@ Publications
 Service Summary
 ==============
 * Program Committee member, AAAI 2023.
-* Journal paper reviewer, AIJ 2021.
-* As a member of IEEE BITS-Pilani chapter, organized an AI bot making competition for a video game I developed, 2014.
+* Paper reviewer, AIJ, 2021.
+* As a member of IEEE BITS-Pilani chapter, conceptualized, developed and organized an AI bot making competition for a video game at college tech festival 2014.
+
 
 Projects
 ========

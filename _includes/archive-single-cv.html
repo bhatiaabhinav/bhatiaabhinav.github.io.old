@@ -33,17 +33,26 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
 
-      {% if post.venueshort %}
-        <font size="1">{{ post.venueshort }}</font>
+      <font size="1">
+      {% if post.collection == "teaching" %}
+        {% if post.semester %}
+          {{ post.semester }}
+        {% endif %}
+      {% else %}
+        {% if post.venueshort %}
+          {{ post.venueshort }}
+        {% endif %}
+        {% if post.date %}
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% endif %}
       {% endif %}
-      {% if post.date %}
-        <font size="1">{{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-      {% endif %}
+      </font>
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}
+
+    {% if post.citation %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
         <!-- <font size="1"> -->
           {% if post.paperurl %} <a href="{{ post.paperurl }}">URL</a> {% endif %}
@@ -51,6 +60,19 @@
         <!-- </font> -->
       </p>
     {% endif %}
+
+    {% if post.collection == "teaching" %}
+      <p class="archive__item-excerpt" itemprop="description">
+        <i>{{ post.venue }}</i><br/>
+        {{ post.responsibilities }}
+      </p>
+    {% endif %}
+
+    <!-- { % else %} -->
+     
+    <!-- {% if post.venue%}
+      
+    {% endif %} -->
     </li>
  </article>
 </div>
