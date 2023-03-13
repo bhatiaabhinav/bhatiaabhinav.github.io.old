@@ -51,7 +51,7 @@ Work experience
   * Developed a deep-learning based system for anomaly-detection in large live incoming data streams.
 
 * Jan 2015 - Jun 2015: **Software Development Engineer Intern at Amazon**, Bengaluru
-  * Worked on offline experience for Prime Video
+  * Worked on offline experience for Prime Video.
   * Worked on optimizing content load time for Prime Video on Kindle tablets.
 
 Programming Skills
