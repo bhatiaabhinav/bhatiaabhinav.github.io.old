@@ -12,7 +12,7 @@ redirect_from:
 
 <font size="2">Updated: March 13, 2023</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20230313.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20230315.pdf)
 
 
 -----
