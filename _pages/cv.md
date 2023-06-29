@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<font size="2">Updated: May 28, 2023</font>
+<font size="2">Updated: June 29, 2023</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20230528.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20230629.pdf)
 
 
 -----
