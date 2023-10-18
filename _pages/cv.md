@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<font size="2">Updated: Sept 19, 2023</font>
+<font size="2">Updated: Oct 18, 2023</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20230919.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20231018.pdf)
 
 
 -----
@@ -80,6 +80,8 @@ Publications
   
 Service Summary
 ==============
+* Program Committee member, NeurIPS 2023 GenPlan workshop.
+* Paper reviewer, JMLR, 2023.
 * Program Committee member, AAAI 2023.
 * Paper reviewer, AIJ, 2021.
 * As a member of IEEE BITS-Pilani chapter, conceptualized, developed and organized an AI bot making competition for a video game at college tech festival 2014.
