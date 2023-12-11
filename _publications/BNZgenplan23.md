@@ -4,10 +4,10 @@ authors: "Bhatia, A., Nashed, SB., & Zilberstein, S."
 collection: publications
 permalink: publication/BNZgenplan23
 tldr: 'Incorporating task-specific Q-value estimates as inputs to a meta-RL policy can lead to improved generalization and better performance on long horizon tasks.'
-date: 2023-06-28
+date: 2023-12-04
 venue: 'NeurIPS Workshop on Generalization in Planning'
 venueshort: "NeurIPS GenPlan"
-paperurl: 'https://arxiv.org/abs/2306.15909'
+paperurl: 'https://openreview.net/pdf?id=ozqaF9YBce'
 pdf: "../files/BNZgenplan23.pdf"
 citation: 'Bhatia, A., Nashed, SB., & Zilberstein, S. (2023). RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$. In <i>NeurIPS Workshop on Generalization in Planning</i>.'
 tags:
