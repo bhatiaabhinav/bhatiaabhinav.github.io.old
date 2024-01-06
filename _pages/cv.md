@@ -30,7 +30,6 @@ Education
 =========
 * **Ph.D in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2025 (expected).
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
-  * At [Resource Bounded Reasoning](https://groups.cs.umass.edu/shlomo/) lab, I conduct research on metareasoning and meta-reinforcement-learning methods, to make autonomous agents operate safely and efficiently in real-time and with limited data.
   * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
 * **M.S. in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * **B.E. (Hons.) in Computer Science**, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
