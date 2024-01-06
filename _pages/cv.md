@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<font size="2">Updated: Oct 30, 2023</font>
+<font size="2">Updated: Jan 06, 2024</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20231030.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20240106.pdf)
 
 
 -----
@@ -32,7 +32,7 @@ Education
   * Advisor: Prof. [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/)
   * At [Resource Bounded Reasoning](https://groups.cs.umass.edu/shlomo/) lab, I conduct research on metareasoning and meta-reinforcement-learning methods, to make autonomous agents operate safely and efficiently in real-time and with limited data.
   * Coursework: Artificial Intelligence, Reinforcement Learning, Robotics, Advanced Robot Dynamics & Control, Machine Learning, Neural Networks, Advanced Algorithms, Empirical Research Methods, Advanced Information Assurance
-* **M.S. in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.94/4.
+* **M.S. in Computer Science**, [University of Massachusetts, Amherst](https://www.cics.umass.edu/), 2022. GPA 3.95/4.
 * **B.E. (Hons.) in Computer Science**, [Birla Institute of Technology and Science, Pilani](https://bits-pilani.ac.in/), 2015. GPA 9.27/10.
 
 Work experience
