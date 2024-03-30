@@ -18,8 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     <hr>
-    {% if author.seeking %}<center><p class="author__bio">Currently seeking <br/> {{ author.seeking }}</p></center>{% endif %}
-    <hr>
+    {% if author.seeking %}<center><p class="author__bio">Currently seeking <br/> {{ author.seeking }}</p></center><hr>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">

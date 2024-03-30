@@ -3,12 +3,12 @@ title: "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$"
 authors: "Bhatia, A., Nashed, SB., & Zilberstein, S."
 collection: publications
 permalink: publication/BNZgenplan23
-tldr: 'Incorporating task-specific Q-value estimates as inputs to a meta-RL policy can lead to improved generalization and better performance on long horizon tasks.'
+tldr: 'Incorporating task-specific Q-value estimates as inputs to a meta-RL policy can lead to improved generalization and better performance over longer adaptation periods.'
 date: 2023-12-04
 venue: 'NeurIPS Workshop on Generalization in Planning'
 venueshort: "NeurIPS GenPlan"
 paperurl: 'https://openreview.net/pdf?id=ozqaF9YBce'
-pdf: "../files/BNZgenplan23.pdf"
+pdf: "../files/BNZarxiv2024.pdf"
 citation: 'Bhatia, A., Nashed, SB., & Zilberstein, S. (2023). RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$. In <i>NeurIPS Workshop on Generalization in Planning</i>.'
 tags:
   - meta reinforcement learning
@@ -18,9 +18,9 @@ excerpt: ""
 
 
 ### Abstract
-Meta reinforcement learning (meta-RL) methods such as RL$^2$ have emerged as promising approaches for learning data-efficient RL algorithms tailored to a given task distribution. However, these RL algorithms struggle with long-horizon tasks and out-of-distribution tasks since they rely on recurrent neural networks to process the sequence of experiences instead of summarizing them into general RL components such as value functions. Moreover, even transformers have a practical limit to the length of histories they can efficiently reason about before training and inference costs become prohibitive. In contrast, traditional RL algorithms are data-inefficient since they do not leverage domain knowledge, but they do converge to an optimal policy as more data becomes available. In this paper, we propose RL$^3$, a principled hybrid approach that combines traditional RL and meta-RL by incorporating task-specific action-values learned through traditional RL as an input to the meta-RL neural network. We show that RL$^3$ earns greater cumulative reward on long-horizon and out-of-distribution tasks compared to RL$^2$, while maintaining the efficiency of the latter in the short term. Experiments are conducted on both custom and benchmark discrete domains from the meta-RL literature that exhibit a range of short-term, long-term, and complex dependencies.
+Meta reinforcement learning (meta-RL) methods such as RL$^2$ have emerged as promising approaches for learning data-efficient RL algorithms tailored to a given task distribution. However, they show poor asymptotic performance and struggle with out-of-distribution tasks because they rely on sequence models, such as recurrent neural networks or transformers, to process experiences rather than summarize them using general-purpose RL components such as value functions. In contrast, traditional RL algorithms are data-inefficient as they do not use domain knowledge, but they do converge to an optimal policy in the limit. We propose RL$^3$, a principled hybrid approach that incorporates action-values, learned per task through traditional RL, in the inputs to meta-RL. We show that RL$^3$ earns greater cumulative reward in the long term, compared to RL$^2$, while maintaining data-efficiency in the short term, and generalizes better to out-of-distribution tasks. Experiments are conducted on both custom and benchmark discrete domains from the meta-RL literature that exhibit a range of short-term, long-term, and complex dependencies.
 
-[PDF](../files/BNZgenplan23.pdf)
+[PDF (Latest ArXiv Draft)](../files/BNZarxiv2024.pdf)
 [Slides](../files/BNZgenplan23_slides.pdf)
 [Code](https://github.com/bhatiaabhinav/RL3)
 

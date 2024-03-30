@@ -86,7 +86,7 @@ author:
   bio              : "CS Ph.D. Candidate (5th year).
 
   Teaching AI to learn like babies."
-  seeking          : "research internships"
+  # seeking          : "research internships"
   # location         : "Amherst, United States"
   employer         : "University of Massachusetts Amherst"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

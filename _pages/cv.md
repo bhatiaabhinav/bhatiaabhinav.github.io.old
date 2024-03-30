@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-<font size="2">Updated: Jan 06, 2024</font>
+<font size="2">Updated: March 30, 2024</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20240106.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20240330.pdf)
 
 
------
+<!-- -----
 
 **Currently seeking research internships**
 
------
+----- -->
 
 
 Interests
@@ -79,6 +79,7 @@ Publications
   
 Service Summary
 ==============
+* Program Committee member, IJCAI 2024.
 * Program Committee member, NeurIPS 2023 GenPlan workshop.
 * Paper reviewer, JMLR, 2023.
 * Program Committee member, AAAI 2023.
