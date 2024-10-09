@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<font size="2">Updated: March 30, 2024</font>
+<font size="2">Updated: October 09, 2024</font>
 
-Download [PDF](../files/abhinavbhatia_resume_20240330.pdf)
+Download [PDF](../files/abhinavbhatia_resume_20241009.pdf)
 
 
 <!-- -----
@@ -37,6 +37,8 @@ Education
 Work experience
 ======
 
+* Jun 2024 - Aug 2024: **Applied Sciences Intern at Microsoft Xbox Game Studios, Redmond**
+  * Worked on multi-task inverse reinforcement learning and offline reinforcement learning solutions for automated game playing.
 * Jun 2017 - Jul 2019:  **Research Engineer at [School of Computing and Information Systems](https://scis.smu.edu.sg), [Singapore Management University](https://www.smu.edu.sg)**
   * Supervised by Prof. [Pradeep Varakantham](http://www.mysmu.edu/faculty/pradeepv/) and Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html)
   * Worked on optimizing constrained resource allocation at city scale using deep reinforcement learning, which led to a [publication](../publication/BVKicaps2019).
